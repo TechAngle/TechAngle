@@ -1,17 +1,5 @@
 <!-- Visual Studio -->
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio" style="border-radius: 8px;">
-
-<!-- C# -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="border-radius: 8px;">
-
-<!-- Python -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 8px;">
-
-<!-- Ko-Fi -->
-<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" style="border-radius: 8px;">
-
-<!-- Windows -->
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="border-radius: 8px;">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio" style="border-radius: 8px;"> <!-- C# --> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="border-radius: 8px;"> <!-- Python --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 8px;"> <!-- Ko-Fi --> <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" style="border-radius: 8px;"> <!-- Windows --> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="border-radius: 8px;">
 
 # About me
 
@@ -39,6 +27,4 @@ Essentially, my future goals revolve around being at the forefront of technologi
 ## Contact
 
 <!-- Matrix -->
-<a href="https://matrix.to/#/@tech-angle:matrix.org"><img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" alt="Matrix" style="border-radius: 8px;"></a>
-<!-- Discord -->
-<a href="Your Discord Link Here"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 8px;"></a>
+<a href="https://matrix.to/#/@tech-angle:matrix.org"><img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" alt="Matrix" style="border-radius: 8px;"></a> <!-- Discord --> <a href="Your Discord Link Here"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 8px;"></a>
