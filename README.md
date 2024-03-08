@@ -1,9 +1,9 @@
 <!-- Visual Studio -->
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio" style="border-radius: 8px;"> <!-- C# --> <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="border-radius: 8px;"> <!-- Python --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 8px;"> <!-- Ko-Fi --> <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" style="border-radius: 8px;"> <!-- Windows --> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="border-radius: 8px;">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio" style="border-radius: 8px;"> <!-- Python --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 8px;"> <!-- Ko-Fi --> <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" style="border-radius: 8px;"> <!-- Windows --> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="border-radius: 8px;">
 
 # About me
 
-I am a self-taught programmer who specializes in **C# and Python**. My programming interest is balanced by my artistic side, which I like exploring through art and immersing myself in the world of *EDM* music.
+I am a self-taught programmer who specializes in **Python**. My programming interest is balanced by my artistic side, which I like exploring through art and immersing myself in the world of *EDM* music.
 
 I spend most of my free time *enhancing my skills in coding, staying current with industry trends, and looking into new technologies* , since I am committed to constant self-improvement. I thrive on difficult projects and am dedicated to producing high-quality results.
 
