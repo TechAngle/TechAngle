@@ -12,7 +12,7 @@ I spend most of my free time *enhancing my skills in coding, staying current wit
 ![GithubStats2](https://github-readme-stats.vercel.app/api/top-langs/?username=TechAngle&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96)
 
 ## My current project
-![Project](https://github-readme-stats.vercel.app/api/pin/?username=TechAngle&repo=stickerizeR)
+![Project](https://github-readme-stats.vercel.app/api/pin/?username=TechAngle&repo=wth-telegram-bot)
 
 ## Goals for the future
 
