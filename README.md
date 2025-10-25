@@ -13,5 +13,6 @@ My goal - someday help to create a high-quality product which is going to be the
 
 ## Contact
 Discord: @algorithmex
-Email: 
+Email: vlad.evst03@gmail.com
+
 
