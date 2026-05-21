@@ -7,7 +7,7 @@ I am a self-taught programmer who learns **Golang** and **JS/TS**.
 I spend most of my free time *enhancing my skills in coding, staying current with some IT trends, and looking into new technologies*, since I am committed to constant self-improvement.
 **My goal** - someday help to create a high-quality product which is going to be the most important for people.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TechAngle?cardType=level-alternate&theme=graywhite&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TechAngle?cardType=level-alternate&theme=jolly&fontFamily=Courier%20New&preferLogin=false)](https://git.io/awesome-stats-card)
 
 # Contact
 **Discord**: @algorithmex
